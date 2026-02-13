@@ -28,6 +28,7 @@ The system supports multiple stocks and provides insights such as predicted pric
 ---
 
 ## Project Structure
+```text
 Stock_Price_Predictor/
 │
 ├── data/
@@ -52,6 +53,7 @@ Stock_Price_Predictor/
 ├── requirements.txt
 ├── .gitignore
 └── README.md
+```
 
 
 ---
